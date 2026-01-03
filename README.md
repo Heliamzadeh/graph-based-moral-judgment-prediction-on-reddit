@@ -1,7 +1,7 @@
-# graph-based-moral-judgment-prediction-on-reddit
-high-level NLP + network science contribution &amp; language-mediated social reasoning via graph structure
 
 # Graph-Based Moral Judgment Prediction on Reddit
+high-level NLP + network science contribution &amp; language-mediated social reasoning via graph structure
+
 
 ## Overview
 This project investigates how collective moral judgments emerge in online communities by modeling social interaction structures rather than textual content. Using data from Reddit’s *Am I the A**hole?* (AITA) subreddit, we transform large-scale discussion threads into interaction graphs and apply graph-based machine learning and Graph Neural Networks (GNNs) to predict crowd-sourced verdicts.
