@@ -28,7 +28,6 @@ Raw datasets included:
 - ~414 MB of submission metadata
 
 To manage scale, the pipeline employed chunked reading, sampling, and filtering to retain posts with clear verdict labels:
-- NTA, YTA, ESH, NAH
 
 Balanced subsets were constructed to mitigate class imbalance and support robust evaluation.
 
