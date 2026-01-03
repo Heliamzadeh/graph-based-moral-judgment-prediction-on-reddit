@@ -4,7 +4,7 @@ high-level NLP + network science contribution &amp; language-mediated social rea
 
 
 ## Overview
-This project investigates how collective moral judgments emerge in online communities by modeling social interaction structures rather than textual content. Using data from Reddit’s *Am I the A**hole?* (AITA) subreddit, we transform large-scale discussion threads into interaction graphs and apply graph-based machine learning and Graph Neural Networks (GNNs) to predict crowd-sourced verdicts.
+This project investigates how collective moral judgments emerge in online communities by modeling social interaction structures rather than textual content. Using data from Reddit’s *Am I the Problem?* (AITA) subreddit, we transform large-scale discussion threads into interaction graphs and apply graph-based machine learning and Graph Neural Networks (GNNs) to predict crowd-sourced verdicts.
 Unlike conventional NLP approaches that rely on semantic text analysis, this project demonstrates that **social dynamics alone—captured through graph topology, centrality, and message-passing—contain sufficient signal to forecast moral judgments at scale**.
 
 ## Research Motivation
